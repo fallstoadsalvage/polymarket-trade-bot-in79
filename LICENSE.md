@@ -1,4 +1,4 @@
-# 
+# Polymarket quantitative bot: decentralized-trading & API-integration offers the most advanced Polymarket bot, with decentralized-trading and API-integration. Ideal for
 
 
 
